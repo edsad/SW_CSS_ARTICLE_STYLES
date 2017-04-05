@@ -1,0 +1,72 @@
+/*body {
+  background-color: orange;
+}*/
+#header {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+footer {
+  text-align: center;
+}
+
+.one {
+  background-color: blue;
+  font-family: Arial, times, sans-serif;
+  font-size: 2em;
+  color: white;
+  line-height: .95em;
+  padding: .5em .5em 1em 1em;
+  border: 5px solid black;
+  border-radius: 25px;
+}
+ .two {
+  background-color: red;
+  font-family: courier, serif, Arial;
+  font-size: 1.75em;
+  color: #000000;
+  line-height: 1.0em;
+  padding: .5em .5em 1em 1em;
+  border: 5px solid blue;
+  border-radius: 50px;
+ }
+
+ .three {
+  background-color: green;
+  font-family: sans-serif, times, serif;
+  font-size: 1.50em;
+  color: yellow;
+  line-height: 1.15em;
+  padding: .5em .5em 1em 1em;
+  border: 5px solid yellow;
+  border-radius: 75px;
+ }
+
+ .four {
+  background-color: yellow;
+  font-family: serif, Arial, times;
+  font-size: 1.25em;
+  color: #ff00ff;
+  line-height: 1.25em;
+  padding: .5em .5em 1em 1em;
+  border: 5px solid green;
+  border-radius: 90px;
+ }
+
+ .five {
+  background-color: white;
+  font-family: times, courier, serif;
+  font-size: .75em;
+  color: red;
+  line-height: 1.35;
+  padding: .5em .5em 1em 1em;
+  border: 5px solid pink;
+  border-radius: 10px;
+ }
